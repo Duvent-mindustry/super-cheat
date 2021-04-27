@@ -1,7 +1,7 @@
 {
     "category": "turret",
     "health": 6000,
-    "reloadTime": 10,
+    "reloadTime": 0.5,
     "range": 500,
     "inaccuracy": 25,
     "rotateSpeed": 20,
